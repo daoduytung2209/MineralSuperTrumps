@@ -1,0 +1,7 @@
+Name,File Name,Subtitle
+The Miner,Slide55.jpg,Changes the trumps category to Economic Value
+The Petrologist,Slide56.jpg,Changes the trumps category to Crustal Abundance
+The Gemmologist,Slide57.jpg,Changes the trumps category to Hardness
+The Mineralogist,Slide58.jpg,Changes the trumps category to Cleavage
+The Geophysicist,Slide59.jpg,Changes the trumps category to Specific Gravity (or throw magnetite to win the hand)
+The Geologist,Slide60.jpg,Changes to trumps category of your choice 

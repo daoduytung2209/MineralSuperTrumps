@@ -1,0 +1,55 @@
+Name,File Name,Hardness,Gravity,Cleavage,Crustal Abundance,EcoValue
+Quartz,Slide01.jpg,7,2.65,poor/none,high,moderate
+Plagioclase,Slide02.jpg,6.5,2.8,1 perfect/1 good,very high,moderate
+Orthoclase,Slide03.jpg,6.5,2.6,1 perfect/1 good,high,moderate
+Biotite,Slide04.jpg,3,3.3,1 perfect,moderate,low
+Muscovite,Slide05.jpg,3,2.9,1 perfect,moderate,moderate
+Hornblende,Slide06.jpg,6,3.5,2 good,moderate,trivial
+Actinolite,Slide07.jpg,6,3.5,2 good,low,low
+Glaucophane,Slide08.jpg,6,3.2,2 good,low,trivial
+Olivine,Slide09.jpg,7,4.4,2 poor,high,low
+Garnet,Slide10.jpg,7.5,4.3,none,moderate,moderate
+Titanite,Slide11.jpg,5.5,3.6,3 good,low,low
+Zircon,Slide12.jpg,7.5,4.7,2 poor,trace,moderate
+Augite,Slide13.jpg,6.5,3.6,2 good,high,trivial
+Orthopyroxene,Slide14.jpg,6,3.9,2 good,high,trivial
+Chlorite,Slide15.jpg,3,3.3,1 perfect,moderate,low
+Antigorite,Slide16.jpg,4,2.6,1 perfect,low,low
+Talc,Slide17.jpg,1,2.8,1 perfect,low,moderate
+Kaolinite,Slide18.jpg,2.5,2.7,1 perfect,moderate,high
+Andalusite,Slide19.jpg,7,3.15,2 good,low,moderate
+Kyanite,Slide20.jpg,7,3.7,1 perfect/1 good,trace,moderate
+Sillimanite,Slide21.jpg,7.5,3.25,1 perfect/1 good,low,low
+Staurolite,Slide22.jpg,7,3.8,1 good,trace,low
+Epidote,Slide23.jpg,6.5,3.5,1 perfect,moderate,trivial
+Tourmaline,Slide24.jpg,7.5,3.2,2 poor,trace,moderate
+Topaz,Slide25.jpg,8,3.6,1 perfect,ultratrace,low
+Beryl,Slide26.jpg,8,2.9,1 poor,trace,moderate
+Pyrite,Slide27.jpg,6.5,5.0,2 poor,low,moderate
+Pyrrhotite,Slide28.jpg,4.5,4.6,none,low,moderate
+Chalcopyrite,Slide29.jpg,4,4.3,2 poor,low,very high
+Galena,Slide30.jpg,2.5,7.6,3 perfect,trace,high
+Sphalerite,Slide31.jpg,4,4.1,6 perfect,trace,high
+Molybdenite,Slide32.jpg,1.5,4.7,1 perfect,trace,high
+Gold,Slide33.jpg,3,19.3,none,ultratrace,I'm rich!
+Diamond,Slide34.jpg,10,3.5,4 perfect,ultratrace,I'm rich!
+Graphite,Slide35.jpg,2,2.2,1 perfect,trace,moderate
+Halite,Slide36.jpg,2.5,2.2,3 perfect,trace,moderate
+Fluorite,Slide37.jpg,4,3.2,4 perfect,trace,moderate
+Gypsum,Slide38.jpg,2,2.3,1 perfect/2 good,trace,high
+Barite,Slide39.jpg,3.5,4.5,2 perfect/1 good,trace,moderate
+Apatite,Slide40.jpg,5,3.2,2 poor,low,high
+Monazite,Slide41.jpg,5,5.3,1 good/1 poor,trace,moderate
+Calcite,Slide42.jpg,3,2.7,3 perfect,moderate,high
+Dolomite,Slide43.jpg,4,2.9,3 perfect,low,low
+Magnesite,Slide44.jpg,4,3.0,3 perfect,low,moderate
+Siderite,Slide45.jpg,4.5,4.0,3 perfect,trace,moderate
+Magnetite,Slide46.jpg,6,5.2,none,moderate,very high
+Hematite,Slide47.jpg,6,5.3,none,trace,high
+Chromite,Slide48.jpg,5.5,5.1,none,low,high
+Ilmenite,Slide49.jpg,6,4.8,none,low,moderate
+Rutile,Slide50.jpg,6.5,4.3,2 good,low,high
+Corundum,Slide51.jpg,9,4.0,none,trace,moderate
+Cassiterite,Slide52.jpg,7,7.1,1 good/1 poor,trace,high
+Gibbsite,Slide53.jpg,3.5,2.4,1 perfect,low,high
+Goethite,Slide54.jpg,5.5,4.3,1 perfect/1 good,moderate,moderate
